@@ -8,7 +8,7 @@ The IntelliSense Next-Word Prediction Model is a machine learning project design
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
+- [Getting Started](#my model is )
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
