@@ -1,4 +1,4 @@
-# 🌟 Lexi Prophet: The Text Oracle 🌟
+# 🌟 Lexi Prophet: The Text Predictor 🌟
 ## Model Architecture
 
 
